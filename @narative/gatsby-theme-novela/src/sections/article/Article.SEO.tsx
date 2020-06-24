@@ -59,9 +59,9 @@ const ArticleSEO: React.FC<ArticleSEOProps> = ({
       isBlogPost={true}
       articlepathName={siteUrl + location.pathname}
       published={article.date}
-      timeToRead={article.timeToRead}
-      title={article.title}
-      isSecret={article.secret}
+      pathname={location.href}
+      canonicalUrl={article.canonicalUrl}
+      tags={article.tags}
     >
     </SEO>
   );
