@@ -401,7 +401,7 @@ Images can be added to Posts and customized to fit your content. Define a regula
 ![This is the alt text for small image](./images/small.jpg)
 
 <div className="Image__Small">
-  <img src="./images/medium.jpg" alt="This is the alt text small image" />
+  <img src="./images/small.jpg" alt="This is the alt text small image" />
 </div>
 
 <div className="Image__Medium">
@@ -444,12 +444,14 @@ import React from 'react';
  * Paste in your SVG logo and return it from this component.
  * Make sure you have a height set for your logo.
  * It is recommended to keep the height within 25-35px.
+ * Logo comes with a property vallue called `fill`. `fill` is useful 
+ * when you want to change your logo depending on the theme you are on. 
  */
-export default function Logo() {
+export default function Logo({ fill }) {
   return (
     <svg viewBox="0 0 106 28" height="30px">
       <path d="M62.9 12h2.8v10...." />
-      <path fill="#fff" d="M25 14h-..." />
+      <path fill={fill} d="M25 14h-..." />
       <path d="M14 0C6.3..." fill="#639" />
     </svg>
   );
@@ -521,6 +523,7 @@ It is recommended to use the Default options, but if your project requires somet
 | authorsPath            |    /authors     |                                                   Where should Author pages live?                                                   |
 | rootPath               |        /        |                                                   Define the index of your site                                                     |
 | basePath               |        /        |                      Where should the site be served from? `/blog` will change all paths to start with `/blog`                      |
+| pageLength               |        6        |                      How many posts should be shown per page                      |
 | articlePermalinkFormat |      :slug      | Define the format of the article permalink. Possible values: `:slug`, `:year`, `:month`, `:day`. Example: `:year/:month/:day/:slug` |
 | mailchimp              |      false      |                                             Enable Mailchimp subscriptions on each Post                                             |
 | sources.local          |      true       |                                                Enable local file system data source                                                 |
@@ -537,6 +540,7 @@ plugins: [
       contentAuthors: 'content/authors',
       rootPath: '/',
       basePath: '/',
+      pageLength: 6,
       mailchimp: true,
       sources: {
         local: true,

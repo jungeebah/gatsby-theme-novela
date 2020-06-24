@@ -3,6 +3,207 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.16.4](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.16.3...@narative/gatsby-theme-novela@0.16.4) (2020-06-20)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.16.3](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.16.2...@narative/gatsby-theme-novela@0.16.3) (2020-06-17)
+
+
+### Bug Fixes
+
+* [#363](https://github.com/narative/gatsby-theme-novela/issues/363) add noindex meta tag to secret article ([2faeac4](https://github.com/narative/gatsby-theme-novela/commit/2faeac4458f25e1e12a5c30f274786141f13176f))
+
+
+
+
+
+## [0.16.2](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.16.1...@narative/gatsby-theme-novela@0.16.2) (2020-06-15)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.16.1](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.16.0...@narative/gatsby-theme-novela@0.16.1) (2020-06-12)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+# [0.16.0](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.8...@narative/gatsby-theme-novela@0.16.0) (2020-05-27)
+
+
+### Features
+
+* mdx media blocks ([770618e](https://github.com/narative/gatsby-theme-novela/commit/770618e1bef93f08ea5f951c2230ac5104e967c9))
+
+
+
+
+
+## [0.15.8](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.7...@narative/gatsby-theme-novela@0.15.8) (2020-05-27)
+
+
+### Bug Fixes
+
+* **MDXRenderer:** adding full-width for .gif ([2127daa](https://github.com/narative/gatsby-theme-novela/commit/2127daa0f6b89f62b992181dfda64d3a8550794b))
+
+
+
+
+
+## [0.15.7](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.6...@narative/gatsby-theme-novela@0.15.7) (2020-05-22)
+
+
+### Bug Fixes
+
+* remove unprocessed JS content from local articles in RSS ([18d3390](https://github.com/narative/gatsby-theme-novela/commit/18d339011a1b0e22d2ef54b90f8f4b46e15c2735))
+
+
+
+
+
+## [0.15.6](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.5...@narative/gatsby-theme-novela@0.15.6) (2020-05-18)
+
+
+### Bug Fixes
+
+* notion icon error due to replace regex not handling .so domain. ([6f52b59](https://github.com/narative/gatsby-theme-novela/commit/6f52b59bb1a2e12ea158b47fbfa36ada9dcb95a4))
+
+
+
+
+
+## [0.15.5](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.4...@narative/gatsby-theme-novela@0.15.5) (2020-05-12)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.15.4](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.3...@narative/gatsby-theme-novela@0.15.4) (2020-05-09)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.15.3](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.2...@narative/gatsby-theme-novela@0.15.3) (2020-05-08)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.15.2](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.1...@narative/gatsby-theme-novela@0.15.2) (2020-05-07)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.15.1](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.0...@narative/gatsby-theme-novela@0.15.1) (2020-05-06)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+# [0.15.0](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.6...@narative/gatsby-theme-novela@0.15.0) (2020-05-05)
+
+
+### Features
+
+* **blog:** add Notion in social links ([da82a09](https://github.com/narative/gatsby-theme-novela/commit/da82a0919ab23f7cdf8794febb10d9be491b7210))
+
+
+
+
+
+## [0.14.6](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.5...@narative/gatsby-theme-novela@0.14.6) (2020-05-03)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.14.5](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.4...@narative/gatsby-theme-novela@0.14.5) (2020-05-02)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.14.4](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.3...@narative/gatsby-theme-novela@0.14.4) (2020-04-30)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.14.3](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.2...@narative/gatsby-theme-novela@0.14.3) (2020-04-25)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.14.2](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.1...@narative/gatsby-theme-novela@0.14.2) (2020-04-20)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.14.1](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.0...@narative/gatsby-theme-novela@0.14.1) (2020-04-16)
+
+
+### Bug Fixes
+
+* **seo:** Fix canonical_url not showing ([886142c](https://github.com/narative/gatsby-theme-novela/commit/886142cb9448b5be2fd19fe4ce453b92f2d5de1b))
+
+
+
+
+
+# [0.14.0](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.13.1...@narative/gatsby-theme-novela@0.14.0) (2020-04-12)
+
+
+### Bug Fixes
+
+* **css:** style break in mobile ([13cbb1f](https://github.com/narative/gatsby-theme-novela/commit/13cbb1fae17a25da1e9db1bb8d2fdaca139d4fd3))
+* fetch social name for twitter meta tags ([b98123f](https://github.com/narative/gatsby-theme-novela/commit/b98123f8c797aed0681e46b0f36e1ff2ba6e483a))
+* load fonts locally ([9860f3c](https://github.com/narative/gatsby-theme-novela/commit/9860f3c8cbf76cc5f7f1f7f1bf75be398592646c))
+* **contentful:** source works now without local ([3299592](https://github.com/narative/gatsby-theme-novela/commit/329959220705c095ba6ce7798a3779e022bb56d6))
+
+
+### Features
+
+* **blog:** add TripAdvisor in social links ([a55be90](https://github.com/narative/gatsby-theme-novela/commit/a55be901114096f3ec59c90df07760919de9f7b6))
+* Adds canonical_url support for articles ([4e2b438](https://github.com/narative/gatsby-theme-novela/commit/4e2b438a0a1c99016e36c1ff85ad4ae7eb5f1033))
+
+
+
+
+
 ## [0.13.1](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.13.0...@narative/gatsby-theme-novela@0.13.1) (2020-01-08)
 
 
